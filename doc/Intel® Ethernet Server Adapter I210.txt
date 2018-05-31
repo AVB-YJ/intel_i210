@@ -1,0 +1,15 @@
+엔트리 레벨 서버 및 오디오 - 비디오 애플리케이션 용으로 설계된 단일 포트 기가비트 이더넷 서버 어댑터.
+
+KEY FEATURES
+- Low-halogen 1 single-port PCI-Express* 10/100/1000 Ethernet adapter
+- Innovative power management features including Energy Efficient Ethernet (EEE), DMA Coalescing, ultra-compact design, and a unique ventilated bracket for increased efficiency and reduced power consumption
+- IEEE 802.1Qav Audio-Video-Bridging (AVB) for tightly controlled media stream synchronization, buffering, and reservation
+- High-performing design supporting PCI Express* Gen 2.1 2.5GT/s
+- Reliable and proven Gigabit Ethernet technology from Intel Corporation
+
+Audio-Video Briding (AVB)
+- 이 인텔 ® 이더넷 서버 어댑터 I210 IEEE 802.1Qav 오디오 - 비디오 지원
+- 시간에 민감한 어플리케이션들 (802.1AS)을 위한 타이밍 및 동기화 오디오/비디오 (AV) 스트림 (802.1Qat)에 필요한 리소스를 보장하는 스트림 예약 (SR; stream reservation)
+- 시간에 민감한 스트림 (802.1Qav)에 대한 전달 및 대기열 기능 향상.
+- IEEE* 802.3* auto-negotiation (Automatic link configuration for speed duplex and flow control)
+- IEEE 1588 protocol and 802.1AS implementation
